@@ -1,0 +1,15 @@
+C:\Users\black\OneDrive\Desktop\Delta\Algoritmy\Algoritmy_26-27\ProjektALM_Denik\bin\Debug\net10.0\ProjektALM_Denik.exe
+C:\Users\black\OneDrive\Desktop\Delta\Algoritmy\Algoritmy_26-27\ProjektALM_Denik\bin\Debug\net10.0\ProjektALM_Denik.deps.json
+C:\Users\black\OneDrive\Desktop\Delta\Algoritmy\Algoritmy_26-27\ProjektALM_Denik\bin\Debug\net10.0\ProjektALM_Denik.runtimeconfig.json
+C:\Users\black\OneDrive\Desktop\Delta\Algoritmy\Algoritmy_26-27\ProjektALM_Denik\bin\Debug\net10.0\ProjektALM_Denik.dll
+C:\Users\black\OneDrive\Desktop\Delta\Algoritmy\Algoritmy_26-27\ProjektALM_Denik\bin\Debug\net10.0\ProjektALM_Denik.pdb
+C:\Users\black\OneDrive\Desktop\Delta\Algoritmy\Algoritmy_26-27\ProjektALM_Denik\obj\Debug\net10.0\ProjektALM_Denik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\OneDrive\Desktop\Delta\Algoritmy\Algoritmy_26-27\ProjektALM_Denik\obj\Debug\net10.0\ProjektALM_Denik.AssemblyInfoInputs.cache
+C:\Users\black\OneDrive\Desktop\Delta\Algoritmy\Algoritmy_26-27\ProjektALM_Denik\obj\Debug\net10.0\ProjektALM_Denik.AssemblyInfo.cs
+C:\Users\black\OneDrive\Desktop\Delta\Algoritmy\Algoritmy_26-27\ProjektALM_Denik\obj\Debug\net10.0\ProjektALM_Denik.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Desktop\Delta\Algoritmy\Algoritmy_26-27\ProjektALM_Denik\obj\Debug\net10.0\ProjektALM_Denik.sourcelink.json
+C:\Users\black\OneDrive\Desktop\Delta\Algoritmy\Algoritmy_26-27\ProjektALM_Denik\obj\Debug\net10.0\ProjektALM_Denik.dll
+C:\Users\black\OneDrive\Desktop\Delta\Algoritmy\Algoritmy_26-27\ProjektALM_Denik\obj\Debug\net10.0\refint\ProjektALM_Denik.dll
+C:\Users\black\OneDrive\Desktop\Delta\Algoritmy\Algoritmy_26-27\ProjektALM_Denik\obj\Debug\net10.0\ProjektALM_Denik.pdb
+C:\Users\black\OneDrive\Desktop\Delta\Algoritmy\Algoritmy_26-27\ProjektALM_Denik\obj\Debug\net10.0\ProjektALM_Denik.genruntimeconfig.cache
+C:\Users\black\OneDrive\Desktop\Delta\Algoritmy\Algoritmy_26-27\ProjektALM_Denik\obj\Debug\net10.0\ref\ProjektALM_Denik.dll

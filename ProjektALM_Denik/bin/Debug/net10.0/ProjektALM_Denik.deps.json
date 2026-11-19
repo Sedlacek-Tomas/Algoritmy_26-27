@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ProjektALM_Denik/1.0.0": {
+        "runtime": {
+          "ProjektALM_Denik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjektALM_Denik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
